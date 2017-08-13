@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="cracha">Crachá</string>
+    <string name="crachanot">Crachá não encontrado</string>
+    <string name="senha">Senha</string>
+    <string name="senhanot">Senha incorreta</string>
+    <string name="resenha">Repita a Senha</string>
+</resources>
