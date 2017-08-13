@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">Login</string>
     <string name="cracha">Crachá</string>
-    <string name="crachanot">Crachá não encontrado</string>
+    <string name="crachaNot">Crachá não encontrado</string>
+    <string name="crachaEmpty">Crachá está vazio</string>
     <string name="senha">Senha</string>
-    <string name="senhanot">Senha incorreta</string>
-    <string name="resenha">Repita a Senha</string>
+    <string name="senhaNot">Senha incorreta</string>
+    <string name="reSenha">Repita a Senha</string>
+    <string name="senhaNaoIguais">Senhas não são iguais</string>
+    <string name="senhaEmpty">Senha está vazia</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="titleCriarSenha">Criar Senha</string>
 </resources>

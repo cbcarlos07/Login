@@ -3,84 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="/home/carlos/.android/build-cache/76a06ad2f86d039d9b788fbe5ebd7d8429310922/output/jars/classes.jar"
+        jar="/home/carlos/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/classes_149b60ccebbdf06327b86c870ef913101ba4b81e.jar" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/carlos/StudioProjects/Login/app/build/intermediates/pre-dexed/debug/gson-2.7_05a45bccf5579adec8ae15073559b0a3f7340bf1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/carlos/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jar="/home/carlos/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_aa92e322c534338f3308947d9d135a027b70c49e.jar" />
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/carlos/StudioProjects/Login/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_3493bd9e506dafc59f2f059898f5aa5fd932df71.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/carlos/.android/build-cache/f4f3a8d4cb7b9cacdc3513eafe9201ba80178784/output/jars/classes.jar"
+        jar="/home/carlos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/classes_4f3f492ba433eb9459820f47c6422a94478c88da.jar" />
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/carlos/StudioProjects/Login/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_bd7912eaf5d3eab2bd0c446e63e3ae23af03d50e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/carlos/.android/build-cache/659738d6317b94e14aa467de310227739d1f34f6/output/jars/classes.jar"
+        jar="/home/carlos/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/classes_f344fd2ce57e6efd0d05815095593d5249c8c71a.jar" />
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/carlos/StudioProjects/Login/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b00de41f9e594e22559d80460adc3e19c7ee9814.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/carlos/.android/build-cache/a6c2a6409ac37c8f46fa26514309e23e3909065a/output/jars/libs/internal_impl-24.2.0.jar"
+        jar="/home/carlos/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_62e447c344d14802333848f910fdc5ba67931a26.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/carlos/.android/build-cache/91db5d7a073d326aeed27def7817e637d98b62c7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/classes_a2a91957e71949e45fa5ef2ca2b196ab7581dd27.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/carlos/.android/build-cache/dbe3d880c94d5a97942a520bc16f7af40308801c/output/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8b406a730944e0f84188c298e97cbfadad24e79a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/carlos/.android/build-cache/a6c2a6409ac37c8f46fa26514309e23e3909065a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/classes_f383338984db5de0c23602e4a65d03d178e082ba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/carlos/.android/build-cache/54a5b4bb28858541b962bb83b5fb2f7d3ad1b0e5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/home/carlos/StudioProjects/Minha Oferta/Login/app/build/intermediates/pre-dexed/debug/classes_e8282a239a40c08b402b5ee4e3e5d82635695d8d.jar" />
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/carlos/StudioProjects/Login/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_c22f5b2de1905f93e656f30d00505e06e02e63e9.jar" />
     </item>
 
 </items>
